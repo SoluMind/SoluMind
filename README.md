@@ -1,4 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+Hi There,
+
+I’m a Front-End Developer with hands-on experience in HTML, CSS, JavaScript, PHP, and WordPress. I focus on building responsive, accessible, and user-friendly websites. I’m currently working with React and expanding into component-based architecture and API integration. I’m passionate about clean code, good design, and continuous learning. Outside of coding, I enjoy exploring UI trends and building personal projects to sharpen my skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
