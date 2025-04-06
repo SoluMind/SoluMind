@@ -1,7 +1,7 @@
 <h2 align="center">Hey there! I'm Solomon.</h2>
 
 <p>
-I’m a Front-End Developer with hands-on experience in <strong >HTML, CSS, JavaScript, PHP, and WordPress</strong>. I focus on building responsive, accessible, and user-friendly websites. I’m currently working with React and expanding into component-based architecture and API integration. I’m passionate about clean code, good design, and continuous learning. Outside of coding, I enjoy exploring UI trends and building personal projects to sharpen my skills.
+I’m a Front-End Developer with hands-on experience in <strong >HTML, CSS, JavaScript, SASS PHP, MYSQL, WordPress</strong>. I focus on building responsive, accessible, and user-friendly websites. I’m currently working with React and expanding into component-based architecture and API integration. I’m passionate about clean code, good design, and continuous learning. Outside of coding, I enjoy exploring UI trends and building personal projects to sharpen my skills.
 </p>
 
 
